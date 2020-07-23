@@ -1,0 +1,15 @@
+.dashboard-container {
+  background: #EFF5FB;
+  display: flex;
+}
+
+.menu-container {
+  width: 288px;
+  height: 900px;
+  background: #EFF5FB;
+  box-shadow: inset -10px 0px 20px rgba(194, 203, 217, 0.15);
+}
+
+.content-wrapper {
+  margin: 8px 16px 39px;
+}
